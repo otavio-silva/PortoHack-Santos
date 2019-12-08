@@ -1,0 +1,27 @@
+INCIDENTE:
+- Incêndio Açúcar
+- Incêndio Gasolina
+- Vazamento Óleo Diesel
+CATEGORIA DO CENÁRIO:
+- Desprezível
+- Marginal
+- Crítico
+- Catastrófico
+POSIÇÃO EVENTO:
+- ÁREA 1
+- ÁREA 2
+- ÁREA 3
+- ÁREA 4
+RECURSOS NECESSÁRIOS:
+- Bombeiros
+- Água
+- Espuma de CO2
+- Pó de Mármore
+POSIÇÃO RECURSOS:
+- ÁREA 1
+- ÁREA 2
+- ÁREA 3
+- ÁREA 4
+TEMPO ROTA RECURSO-EVENTO:
+- 4-1: 15 Min
+- 3-1: 5 Min
